@@ -1,6 +1,6 @@
 {
-  "name": "@pts/swagger-tools",
-  "version": "0.10.3",
+  "name": "@jeffe95/swagger-tools",
+  "version": "1.0.0",
   "description": "Various tools for using and integrating with Swagger.",
   "main": "index.js",
   "scripts": {
@@ -78,5 +78,11 @@
     "swagger-converter": "^0.1.7",
     "traverse": "^0.6.6",
     "z-schema": "^5.0.3"
+  },
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
   }
 }

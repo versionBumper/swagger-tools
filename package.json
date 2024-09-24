@@ -1,20 +1,20 @@
 {
-  "name": "@jeffe95/swagger-tools",
+  "name": "@packagebumper/swagger-tools",
   "version": "1.0.0",
-  "description": "Various tools for using and integrating with Swagger.",
+  "description": "Various tools for using and integrating with Swagger with bumped up packages' versions",
   "main": "index.js",
   "scripts": {
     "test": "gulp",
     "test-debug": "node --debug-brk node_modules/.bin/gulp"
   },
   "bugs": {
-    "url": "https://github.com/IrwinBridge/swagger-tools/issues"
+    "url": "https://github.com/versionBumper/swagger-tools/issues"
   },
-  "homepage": "https://github.com/IrwinBridge/swagger-tools",
+  "homepage": "https://github.com/versionBumper/swagger-tools",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/IrwinBridge/swagger-tools.git"
+    "url": "git://github.com/versionBumper/swagger-tools.git"
   },
   "keywords": [
     "api",
